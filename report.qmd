@@ -8,7 +8,7 @@ format: typst
 ## **Part 0: libraries**
 
 ```{r}
-
+hello I am sayon ray
 ```
 
 ## **Part 1:** **Defining Research Question**
